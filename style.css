@@ -1,0 +1,42 @@
+
+tr{
+	height: 60px;
+}
+table{
+	border-spacing: 10px 10px; 
+	border: 0.1px ;
+	width: 50%;
+	background-color: #191f1c;
+}
+.white28{
+	background-color: white;
+	width: 28%;
+}
+.white43{
+	background-color: white;
+	width: 43%;
+}
+.yellow29{
+	 background-color: #fff058;
+	 width: 29%
+	}
+.white14{
+	background-color: white;
+	width: 14%;
+}
+.orange57{
+	background-color: #ff5f3f;
+	width: 57%;
+}
+.yellow14{
+	 background-color: #fff058;
+	 width: 14%
+	}
+.blue28{
+		background-color: #0c4b8c;
+		width: 28%;
+	}
+.white57{
+	background-color: white;
+	width: 57%;
+}
